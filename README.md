@@ -1,2 +1,2 @@
 # jay_project
-#ECE student learning a python projects
+#ECE student learning  python projects
