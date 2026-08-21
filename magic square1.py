@@ -49,5 +49,5 @@ def printing(matrix1):
 
 n= int(input("enter the positive odd number only:"))
 if n%2==0 or n<0:
-    raise ValueError("give only odd numbers")
+    raise ValueError("give only positive odd numbers")
 zeroes(n)
