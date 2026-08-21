@@ -1,10 +1,3 @@
-
-"""
-created on monday , 17 aug 2026
-@author: katabathina jayasimha
-"""
-
-
 def zeroes(n):
     matrix0=[]
     for m in range(n):
